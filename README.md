@@ -1,6 +1,8 @@
-# Meteor Spyfall
+# Wupin jatkot
 
-Spyfall on your mobile device!
+Joku keskuudessamme on tullut jatkoille kutsumatta!
+
+Pelaa peliä osoitteessa http://wupinjatkot.meteor.com
 
 This is the code that currently runs [http://spyfall.meteor.com](http://spyfall.meteor.com). It's a simple site I've built as a learning project, so definitely don't use it as an example of Meteor best practices. Pull requests welcome!
 
