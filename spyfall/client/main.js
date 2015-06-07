@@ -18,7 +18,7 @@ function getUserLanguage() {
   if (language){
     return language;
   } else {
-    return "en";
+    return "fi";
   }
 };
 
